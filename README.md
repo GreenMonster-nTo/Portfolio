@@ -19,6 +19,7 @@
 <i>Transport_Controller : 이동 미니게임 생성 핸들러</i>
 
 <b>1. Transport0 / Transport_Passenger : 지하철 미니게임</b><br>
+![Image](https://github.com/user-attachments/assets/df0a38bd-51c4-4f8c-90d3-f5ad608139dc)
 <br>양 옆에서 밀려드는 손님을 터치로 날려서 보상을 획득하는 게임
 
 <b>2. Transport1 : 조깅 미니게임</b><br>
@@ -32,3 +33,11 @@
 
 # UI
 
+<b>1. ActiveSkill : 액티브 스킬 UI</b><br>
+
+<b>2. Bank : 은행 UI</b><br>
+
+<b>3. Inventory : 인벤토리 UI</b><br>
+
+<b>4. Journal : 도감 UI</b><br>
+![Image](https://github.com/user-attachments/assets/7704ce89-038c-4c11-b84d-9856d4cc4753)

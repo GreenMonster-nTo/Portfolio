@@ -34,10 +34,13 @@
 # UI
 
 <b>1. ActiveSkill : 액티브 스킬 UI</b><br>
+![Image](https://github.com/user-attachments/assets/db00af82-ca31-4cbc-bc20-f9b308d0d058)
 
 <b>2. Bank : 은행 UI</b><br>
+![Image](https://github.com/user-attachments/assets/eaaec9b7-946b-4e61-9779-9ea2f2b6d56c)
 
 <b>3. Inventory : 인벤토리 UI</b><br>
+![Image](https://github.com/user-attachments/assets/55c97435-c313-4001-a4d7-074be7a3266a)
 
 <b>4. Journal : 도감 UI</b><br>
 ![Image](https://github.com/user-attachments/assets/7704ce89-038c-4c11-b84d-9856d4cc4753)
